@@ -1,0 +1,58 @@
+*{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 174, 255);
+}
+#cara {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(217, 231, 19);
+    border-radius: 100%;
+    position: relative;
+    border: 5px solid black;
+  }
+  
+  #ojosderecho {
+    width: 100px;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    border: 30px solid rgb(0, 0, 0);
+  }
+  #ojosizquierdo {
+    width: 100px;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    border: 30px solid rgb(0, 0, 0);
+  }
+  
+  #nariz {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(241, 3, 3);
+    position: absolute;
+    top: 280px;
+    left: 255px;
+    border-radius: 50%;
+    border: 5px solid black;
+  }
+  
+  #boca {
+    width: 280px;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: 90px;
+    left: 160px;
+    border-radius: 30%;
+  }
+  
+
